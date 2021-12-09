@@ -58,9 +58,9 @@
          //
          function checkCreds($userid, $password) {
             $servername = "localhost";
-            $username = "115696";
-            $password2 = "saltaire";
-            $dbname = "115696";
+            $username = "user";
+            $password2 = "saltairesales";
+            $dbname = "user";
 
             // Create connection
             $conn = new mysqli($servername, $username, $password2, $dbname);
