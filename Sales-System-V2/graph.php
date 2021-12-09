@@ -62,9 +62,9 @@
 
 <?php 
 $servername = "localhost";
-$username = "115696";
-$password = "saltaire";
-$dbname = "115696";
+$username = "user";
+$password = "saltairesales";
+$dbname = "user";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
