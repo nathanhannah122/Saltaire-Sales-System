@@ -70,9 +70,9 @@
         <?php
         // Server login details
         $host = 'localhost';
-        $dbname = '115696';
-        $username = '115696';
-        $password = 'saltaire';
+        $dbname = 'user';
+        $username = 'user';
+        $password = 'saltairesales';
           
         $dsn = "mysql:host=$host;dbname=$dbname"; 
         // SQL Get all users
